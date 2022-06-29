@@ -1,0 +1,28 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# UTILIZANDO NODE 16.13.1
+# UTILIZANDO NODE 16.13.1
+# UTILIZANDO NODE 16.13.1
+# UTILIZANDO NODE 16.13.1
+# UTILIZANDO NODE 16.13.1
+# UTILIZANDO NODE 16.13.1
+# UTILIZANDO NODE 16.13.1
+# UTILIZANDO NODE 16.13.1
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
